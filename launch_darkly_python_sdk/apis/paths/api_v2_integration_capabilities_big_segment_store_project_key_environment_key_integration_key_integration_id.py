@@ -1,0 +1,11 @@
+from launch_darkly_python_sdk.paths.api_v2_integration_capabilities_big_segment_store_project_key_environment_key_integration_key_integration_id.get import ApiForget
+from launch_darkly_python_sdk.paths.api_v2_integration_capabilities_big_segment_store_project_key_environment_key_integration_key_integration_id.delete import ApiFordelete
+from launch_darkly_python_sdk.paths.api_v2_integration_capabilities_big_segment_store_project_key_environment_key_integration_key_integration_id.patch import ApiForpatch
+
+
+class ApiV2IntegrationCapabilitiesBigSegmentStoreProjectKeyEnvironmentKeyIntegrationKeyIntegrationId(
+    ApiForget,
+    ApiFordelete,
+    ApiForpatch,
+):
+    pass

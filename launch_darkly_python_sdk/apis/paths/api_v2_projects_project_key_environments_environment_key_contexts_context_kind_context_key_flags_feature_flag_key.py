@@ -1,0 +1,7 @@
+from launch_darkly_python_sdk.paths.api_v2_projects_project_key_environments_environment_key_contexts_context_kind_context_key_flags_feature_flag_key.put import ApiForput
+
+
+class ApiV2ProjectsProjectKeyEnvironmentsEnvironmentKeyContextsContextKindContextKeyFlagsFeatureFlagKey(
+    ApiForput,
+):
+    pass
